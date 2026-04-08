@@ -32,8 +32,6 @@ For now, add the file directly to your project and include it manually.
 require_once __DIR__ . "/QuykServe.php";
 ```
 
-If you later package it for Composer, the install can be updated.
-
 ---
 
 ## Quick Example
